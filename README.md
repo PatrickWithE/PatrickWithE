@@ -1,4 +1,4 @@
-Hello!I'm Patrick,I'm interested in learning Python and making games,I'm still in some very early stages and I can only do stuff as simple as snake so far.
+Python beginer
 
 <!---
 PatrickWithE/PatrickWithE is a ✨ special ✨ repository because its `` (this file) appears on your GitHub profile.
